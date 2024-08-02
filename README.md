@@ -84,9 +84,9 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Open a web browser or the appropriate client to access the project.
    - http://localhost:8080
   
-![Home](static\Home.png)
+![Home](https://github.com/Rayyan9477/Diamond-Price-Forecasting/blob/main/static/Home.png)
 
-![Output](static\Output.png)
+![Output](https://github.com/Rayyan9477/Diamond-Price-Forecasting/blob/main/static/Output.png)
 <br><br>
 
 ##  Usage and Configuration
