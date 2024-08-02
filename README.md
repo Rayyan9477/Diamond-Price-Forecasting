@@ -48,7 +48,7 @@ Dataset Source Link : ```https://www.kaggle.com/competitions/playground-series-s
 
 Follow these steps to install and set up the project directly from the GitHub repository:
 
-1. **Clone the Project or Download the Code
+1. **Clone the Project or Download the Code**
    - From Github download the code or clone repo 
  
 
